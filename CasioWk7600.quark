@@ -1,0 +1,9 @@
+(
+  name: "Casio7600 quark",
+  summary: "Quark to talk to casio WK7600 workstation",
+  version: "0.0.1",
+  schelp: "Casio7600.schelp",
+  license: "GPL",
+  dependencies: [],
+  copyright: "Stefaan Himpe, september 2019"
+)
